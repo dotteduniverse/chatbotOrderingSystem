@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-ollama
+langchain-community
+chromadb
+sentence-transformers
+python-dotenv
+fastapi
+uvicorn
+pydantic
