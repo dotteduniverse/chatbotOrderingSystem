@@ -1,0 +1,96 @@
+{
+  "beverages": {
+    "tea": [
+      {
+        "name": "Masala Chai",
+        "price": 3.50,
+        "variants": ["hot", "iced"],
+        "category": "tea",
+        "description": "Traditional Indian spiced tea with cardamom, ginger, and cinnamon"
+      },
+      {
+        "name": "Green Tea",
+        "price": 3.00,
+        "variants": ["hot"],
+        "category": "tea",
+        "description": "Light and refreshing Japanese green tea"
+      },
+      {
+        "name": "Ginger Tea",
+        "price": 3.50,
+        "variants": ["hot"],
+        "category": "tea",
+        "description": "Spicy and warming tea with fresh ginger"
+      },
+      {
+        "name": "Black Tea",
+        "price": 2.50,
+        "variants": ["hot", "iced"],
+        "category": "tea",
+        "description": "Classic bold black tea"
+      }
+    ],
+    "coffee": [
+      {
+        "name": "Espresso",
+        "price": 3.00,
+        "variants": ["hot", "iced"],
+        "category": "coffee",
+        "description": "Strong and concentrated coffee shot"
+      },
+      {
+        "name": "Latte",
+        "price": 4.50,
+        "variants": ["hot", "iced"],
+        "category": "coffee",
+        "description": "Espresso with steamed milk and light foam"
+      },
+      {
+        "name": "Cold Coffee",
+        "price": 4.00,
+        "variants": ["cold"],
+        "category": "coffee",
+        "description": "Chilled coffee with milk and ice"
+      },
+      {
+        "name": "Cappuccino",
+        "price": 4.00,
+        "variants": ["hot"],
+        "category": "coffee",
+        "description": "Espresso with equal parts steamed milk and foam"
+      }
+    ]
+  },
+  "snacks": [
+    {
+      "name": "Samosa",
+      "price": 2.00,
+      "quantity_options": [1, 2, 3, 4, 5, 6],
+      "description": "Crispy pastry filled with spiced potatoes and peas"
+    },
+    {
+      "name": "Veg Puff",
+      "price": 2.50,
+      "quantity_options": [1, 2, 3, 4],
+      "description": "Flaky puff pastry with mixed vegetable filling"
+    },
+    {
+      "name": "Cookies",
+      "price": 1.50,
+      "quantity_options": [1, 2, 3, 4, 5, 6, 12],
+      "description": "Butter cookies - plain or chocolate chip"
+    },
+    {
+      "name": "Sandwich",
+      "price": 4.00,
+      "quantity_options": [1, 2],
+      "description": "Grilled vegetable sandwich with chutney"
+    },
+    {
+      "name": "Biscuit",
+      "price": 1.00,
+      "quantity_options": [1, 2, 3, 4, 5, 6],
+      "description": "Marie or digestive biscuits"
+    }
+  ]
+}

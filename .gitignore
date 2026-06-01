@@ -1,0 +1,8 @@
+.env
+venv
+backend/__pycache__/__init__.cpython-312.pyc
+backend/__init__.py
+backend/__pycache__/advanced_menu_loader.cpython-312.pyc
+backend/__pycache__/menu_loader.cpython-312.pyc
+backend/__pycache__/order_processor.cpython-312.pyc
+rag/__init__.py
